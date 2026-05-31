@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm **Abin** 👋
+Hi, I'm **Abin Jos P J** 👋
 
 Python and Django developer passionate about creating scalable and user-friendly applications. I enjoy learning new technologies, building real-world projects, and continuously improving my development skills.
 
